@@ -77,6 +77,12 @@ Essa experiência foi fundamental para unir teoria e prática, resultando em um 
 
 ---
 
+## 📸 Pré-visualização do Dashboard
+
+![Dashboard Power BI](Imagens/dashboard.png)
+
+---
+
 ## 📥 Download do Dashboard
 
 Você pode baixar o arquivo completo do dashboard Power BI para abrir e explorar localmente no Power BI Desktop:
