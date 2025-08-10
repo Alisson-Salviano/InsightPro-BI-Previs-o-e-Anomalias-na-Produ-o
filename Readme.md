@@ -81,7 +81,7 @@ Essa experiência foi fundamental para unir teoria e prática, resultando em um 
 
 Você pode baixar o arquivo completo do dashboard Power BI para abrir e explorar localmente no Power BI Desktop:
 
-[📊 Download Dashboard.pbix](./Dashboard.pbix)
+[📊 Download Dashboard.pbix](./Dashboard_Previsao_Anomalias.pbix)
 
 ---
 
