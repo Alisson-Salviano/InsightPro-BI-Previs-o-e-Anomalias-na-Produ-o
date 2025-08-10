@@ -79,7 +79,7 @@ Essa experiência foi fundamental para unir teoria e prática, resultando em um 
 
 ## 📸 Pré-visualização do Dashboard
 
-![Dashboard Power BI](Imagens/dashboard.png)
+![Dashboard Power BI](Dashboard_Previsao_Anomalias_page-0001.jpg)
 
 ---
 
