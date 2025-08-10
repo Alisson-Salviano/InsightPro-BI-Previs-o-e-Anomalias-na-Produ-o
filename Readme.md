@@ -77,6 +77,14 @@ Essa experiência foi fundamental para unir teoria e prática, resultando em um 
 
 ---
 
+## 📥 Download do Dashboard
+
+Você pode baixar o arquivo completo do dashboard Power BI para abrir e explorar localmente no Power BI Desktop:
+
+[📊 Download Dashboard.pbix](./Dashboard.pbix)
+
+---
+
 ## 📚 Créditos  
 
 Todos os dados, conceitos e técnicas utilizados neste projeto foram aprendidos e fornecidos pela **[Data Science Academy](https://www.datascienceacademy.com.br/)** no curso **Microsoft Power BI Para Business Intelligence e Data Science**.  
