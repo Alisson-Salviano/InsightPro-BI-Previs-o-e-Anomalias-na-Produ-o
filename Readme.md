@@ -79,7 +79,7 @@ Essa experiência foi fundamental para unir teoria e prática, resultando em um 
 
 ## 📸 Pré-visualização do Dashboard
 
-![Dashboard Power BI](Dashboard_Previsao_Anomalias_page-0001.jpg)
+![Dashboard Power BI](Imagens/Dashboard_Previsao_Anomalias_page-0001.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ Essa experiência foi fundamental para unir teoria e prática, resultando em um 
 
 Você pode baixar o arquivo completo do dashboard Power BI para abrir e explorar localmente no Power BI Desktop:
 
-[📊 Download Dashboard.pbix](Imagens/Dashboard_Previsao_Anomalias.pbix)
+[📊 Download Dashboard.pbix](./Dashboard_Previsao_Anomalias.pbix)
 
 ---
 
